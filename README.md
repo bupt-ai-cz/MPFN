@@ -38,4 +38,4 @@ ISLES 2015 - A public evaluation benchmark for ischemic stroke lesion segmentati
 Medical Image Analysis, Available online 21 July 2016, ISSN 1361-8415
 http://dx.doi.org/10.1016/j.media.2016.07.009. 
 
-## If you have questions, please contact us: czhu@bupt.edu.cn
+### If you have questions, please contact us: czhu@bupt.edu.cn
