@@ -6,7 +6,7 @@ Multi-Plane Information Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 Diffusion-weighted magnetic resonance imaging (DWI) is sensitive to acute ischemic stroke and is a common diagnostic method for the stroke. However, the diagnostic result relies on the visual observation of neurologists which may vary from doctor to doctor under different circumstance. And manual segmentation is often a time-consuming and subjective process. The time from onset to thrombus removal has a significant impact on the prognosis of patients with acute ischemic stroke. The shorter the time, the better the prognosis. For this purpose we present a novel framework to quickly and automatically segment the ischemic stroke lesions on DWI. We mainly have three contributions: firstly, we design a detection and segmentation network (DSN) to solve the two kinds of data imbalance; secondly, we propose a triple-branch DSN architecture, used for extracting different plane feature respectively; thirdly, we propose a multi-plane fusion network (MPFN), which aims to make final prediction more accurate. Extensive experiments on ISLES2015 SSIS DWI sequence dataset demonstrate the superiority of our proposed segmentation method. The dice reached 62.2% and the sensitivity reached 71.7%.
 
 # Data
-You can also download the dataset from [HERE](https://drive.google.com/drive/folders/1Dtxl38k_31t_H0ybxN_a2kEL9-81TiVd?usp=sharing) (Google Drive)
+You can download the dataset from [HERE](https://drive.google.com/drive/folders/1Dtxl38k_31t_H0ybxN_a2kEL9-81TiVd?usp=sharing) (Google Drive)
 
 [ISLES2015](https://www.smir.ch/ISLES/Start2015)
 
