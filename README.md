@@ -10,6 +10,12 @@ Diffusion-weighted magnetic resonance imaging (DWI) is sensitive to acute ischem
 
 You can also download the dataset from [HERE](https://drive.google.com/drive/folders/1Dtxl38k_31t_H0ybxN_a2kEL9-81TiVd?usp=sharing)
 
+# Data usage and licensing
+
+This ISLES2015 database is made available under Open Database License whose full text can be found at http://opendatacommons.org/licenses/dbcl/.
+
+Any rights in individual contents of the database are licensed under the Database Contents License whose text can be found at http://opendatacommons.org/licenses/dbcl/. A more human-readable summary can be found under http://opendatacommons.org/licenses/odbl/summary/
+
 If our paper helps your research, please cite this paper:
 
 ```
@@ -23,3 +29,10 @@ If our paper helps your research, please cite this paper:
   publisher={IEEE}
 }
 ```
+
+# Please also cite the challenge article if you use the data:
+
+Oskar Maier et al.
+ISLES 2015 - A public evaluation benchmark for ischemic stroke lesion segmentation from multispectral MRI
+Medical Image Analysis, Available online 21 July 2016, ISSN 1361-8415
+http://dx.doi.org/10.1016/j.media.2016.07.009. 
