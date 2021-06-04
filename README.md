@@ -16,6 +16,7 @@ This ISLES2015 database is made available under Open Database License whose full
 
 Any rights in individual contents of the database are licensed under the Database Contents License whose text can be found at http://opendatacommons.org/licenses/dbcl/. A more human-readable summary can be found under http://opendatacommons.org/licenses/odbl/summary/
 
+# Citation
 If our paper helps your research, please cite this paper:
 
 ```
@@ -30,9 +31,11 @@ If our paper helps your research, please cite this paper:
 }
 ```
 
-# Please also cite the challenge article if you use the data:
+Please also cite the challenge article if you use the data:
 
 Oskar Maier et al.
 ISLES 2015 - A public evaluation benchmark for ischemic stroke lesion segmentation from multispectral MRI
 Medical Image Analysis, Available online 21 July 2016, ISSN 1361-8415
 http://dx.doi.org/10.1016/j.media.2016.07.009. 
+
+# If you have questions, please contact us: czhu@bupt.edu.cn
