@@ -1,4 +1,4 @@
-# MPFN
+# MPFN - Introduction
 Description regarding our paper [Ischemic Stroke Lesion Segmentation Using
 Multi-Plane Information Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9019873)
 
