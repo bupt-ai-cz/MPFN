@@ -9,7 +9,7 @@ You can also download the dataset from [HERE](https://drive.google.com/drive/fol
 
 If our paper helps your research, please cite this paper:
 
- 、、、
+```
 @article{zhang2020ischemic,
   title={Ischemic Stroke Lesion Segmentation Using Multi-Plane Information Fusion},
   author={Zhang, Long and Song, Ruoning and Wang, Yuanyuan and Zhu, Chuang and Liu, Jun and Yang, Jie and Liu, Lian},
@@ -19,4 +19,4 @@ If our paper helps your research, please cite this paper:
   year={2020},
   publisher={IEEE}
 }
-、、、
+```
